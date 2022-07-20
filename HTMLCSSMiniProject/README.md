@@ -1,2 +1,0 @@
-# HTMLCSSMiniProject
-# HTMLCSSMiniProject
